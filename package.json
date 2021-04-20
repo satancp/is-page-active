@@ -1,11 +1,15 @@
 {
   "name": "is-page-active",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A tool to detect if the current page is active",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:satancp/is-page-active.git"
+  }
 }
