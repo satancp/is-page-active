@@ -1,0 +1,11 @@
+{
+  "name": "is-page-active",
+  "version": "1.0.3",
+  "description": "A tool to detect if the current page is active",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris",
+  "license": "MIT"
+}
